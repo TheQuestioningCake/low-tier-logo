@@ -7,4 +7,4 @@ For this homework assignment we had to use inquirer, node.js, and jest in order 
 In order to use you must have the dependcies Inquirer version 8.2.4 and Jest. It should download with simple npm i in the terminal, if not then if you have node.js use a simple npm i inquirer@8.2.4, and npm i jest
 
 ## Video Link
-https://drive.google.com/file/d/1EhqJUDGRRsf4c4aqCzPuW9Q_aFWtE8QR/view?usp=drive_link
+https://drive.google.com/file/d/1bJc3HXiyXTictrPmwycigNGIeDdZ_Trr/view?usp=sharing
